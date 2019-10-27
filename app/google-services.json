@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33797356903",
+    "firebase_url": "https://pets-f1e37.firebaseio.com",
+    "project_id": "pets-f1e37",
+    "storage_bucket": "pets-f1e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33797356903:android:c50ced14111116982783c2",
+        "android_client_info": {
+          "package_name": "com.example.android.pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33797356903-8l6s1gfrsqbbsvhaqadsg1pib3u31ib2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pets",
+            "certificate_hash": "581887c72aefdd851a4fed3151af5944109d5f93"
+          }
+        },
+        {
+          "client_id": "33797356903-p5vrdih0cver2op5je7sfpeb6avnm6ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDpnJxZwX4W-QwfiYwUvADXsrJv7whPWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33797356903-p5vrdih0cver2op5je7sfpeb6avnm6ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
